@@ -4,16 +4,26 @@
     <item
         android:id="@+id/navigation_home"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
+        android:title="@string/title_home"/>
 
     <item
-        android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:id="@+id/navigation_Services"
+        android:icon="@drawable/ic_services_black_24dp"
+        android:title="@string/title_services" />
 
     <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        android:id="@+id/navigation_newcleint"
+        android:icon="@drawable/ic_clients_black_24dp"
+        android:title="@string/title_newclient" />
+
+    <item
+        android:id="@+id/navigation_clients"
+        android:icon="@drawable/ic_newclient_black_24dp"
+        android:title="@string/title_clients" />
+
+    <item
+        android:id="@+id/navigation_email"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="@string/title_email" />
 
 </menu>

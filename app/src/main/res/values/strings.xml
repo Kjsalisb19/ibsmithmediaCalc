@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">IBSmithMediaCalc</string>
+    <string name="app_name">IBSMITH MEDIA Calc</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_services">Services</string>
+    <string name="title_newclient">New Client</string>
+    <string name="title_clients">Clients</string>
+    <string name="title_email">Email</string>
 </resources>
